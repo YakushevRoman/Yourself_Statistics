@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912323212023",
+    "firebase_url": "https://yourself-statistics.firebaseio.com",
+    "project_id": "yourself-statistics",
+    "storage_bucket": "yourself-statistics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912323212023:android:77301add45e2ae50d399f2",
+        "android_client_info": {
+          "package_name": "com.example.yourselfstatistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912323212023-e0cp62v7fofanuiv3no7cdh1v1d3jk7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1J_QjT7MBWoTfUjcPk5DCK9-NuaYolpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912323212023-e0cp62v7fofanuiv3no7cdh1v1d3jk7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
